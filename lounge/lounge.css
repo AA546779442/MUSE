@@ -89,6 +89,10 @@ h2 {
   background-image:url(images/background.gif);
   background-repeat:no-repeat;
   background-position: top left;
+  border-top-left-radius: 3em;
+  border-top-right-radius: 3em;
+  border-bottom-left-radius: 3em;
+  border-bottom-right-radius: 3em;
 }
 
 body p a:link { color: #007e7e; }

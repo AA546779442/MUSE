@@ -42,10 +42,6 @@ h2 {
   font-size: 80%;
 }
 
-#elixirs a:link { color: #007e7e;}
-#elixirs a:visited { color: #333333;}
-#elixirs a:hover { background: #f88396; color: #0d5353;}
-
 #elixirs h2 {
   color: #000000;
 }
@@ -120,4 +116,22 @@ body p a:visited { color: #333333; }
 }
 #elixirs {
   line-height:1em;
+}
+#BB {
+  border-width:thin;
+  border-style:solid;
+  border-color:#007e7e;
+}
+#elixirs a:link{
+   color:#007e7e;
+}
+#elixirs a:visited{
+   color:#333333;
+}
+#elixirs a:hover{
+   background:#f88396;
+   color:#0d5353;
+}
+#elixirs a:active{
+   color:green;
 }

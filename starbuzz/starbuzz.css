@@ -7,7 +7,7 @@ body {
 
 #header {
   background-color: #675c47;
-  margin:           10px;
+  margin:           10px 10px 0px 10px;
   height:           108px;
 }
 
@@ -32,7 +32,7 @@ body {
   color:            #efe5d0;
   text-align:       center;
   padding:          15px;
-  margin:           10px;
+  margin:           0px 10px 10px 10px;
   font-size:        90%;
 }
 
@@ -72,4 +72,11 @@ div#tableRow{
 }
 #tableRow{
   display:table-row;
+}
+#drinks{
+  background-color:#efe5d0;
+  width:20%;
+  padding:15px;
+  vertical-align:top;
+
 }

@@ -28,6 +28,7 @@ vertical-align:top;
 }
 
 #footer {
+  position: relative;
   background-color: #675c47;
   color:            #efe5d0;
   text-align:       center;

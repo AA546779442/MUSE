@@ -1,0 +1,151 @@
+
+body{
+    color:#333;
+    background-color:#fff;
+    min-width: 1226px;
+    margin:0px;
+}
+
+
+#nav33{
+    position: relative;
+    z-index: 30;
+    height: 40px;
+    font-size:12px;
+    color:#b0b0b0;
+    background-color:#333;
+    
+}
+a{
+    color:#b0b0b0;
+    text-decoration: none;
+}
+#mainnav {
+width:1226px;
+margin-right: auto;
+margin-left:auto;
+}
+#navtopleft33{  
+    float: left;
+    height:40px;
+    line-height: 40px;
+}
+#c33{
+    color:#424242;
+    margin:0.1em;   
+}
+#nav-top-right{
+    line-height: 40px;
+    float: right;
+}
+#nav-gouwuche-33{
+    float: right;
+    height: 40px;
+    position: relative;
+    width:120px;
+    margin-left:15px;
+    line-height: 40px;
+}
+#logonav2{
+    position: relative;
+    z-index: 20;
+    height: 100px;
+
+}
+#logoCLP{
+    position: relative;
+    width: 1226px;
+    margin:0 auto;
+
+}
+#logo{
+    float: left;
+    width:62px;
+    margin-top: 22px; 
+}
+#navCLP33{
+    float: left;
+    width:850px;
+    height: 87px;
+
+}
+#navlist33{
+    position: relative;
+    z-index:10px;
+    float:left;
+    width:820px;
+    margin:0px;
+    height:88px;
+    padding:12px 0px 0px 30px;
+    font-size: 16px;
+}
+#navitem a{
+    text-decoration: none;
+    float: left;
+    color:black;
+    font-size:16px;
+    display: inline-block;
+    padding: auto;
+    margin: 25px 10px 10px 10px;
+
+
+}
+#navitem33 a{
+    text-decoration: none;
+    position: relative;
+    float:left;
+    color:black;
+    padding-left:142px;
+    display: inline-block;
+    padding: auto;
+    margin: 25px 10px 10px 10px;
+}
+#header-search{
+    float: right;
+    margin-top: 25px;
+    width:296px;
+    height: 50px;
+}
+#kuan input{
+    position: relative;
+    width:296px;
+    height:50px;
+}
+
+
+#main-nav{
+    position: absolute;
+    top:88px;
+    left:0px;
+    z-index:21;
+    width:234px;
+    height:460px;
+    font-size:14px;
+}
+
+#main-33  {
+    
+    height:420px;
+    border:0;
+    background-color:rgba(0,0,0,0.6);
+    margin: 0px;
+    padding: 20px 0;
+    list-style-type: none;
+}
+
+li a    {
+    color:#fff;
+}
+li{
+    width: 234px;
+    height: 42px;
+    padding-left: 30px;
+}
+
+#pic3{
+    position: relative;
+    width: 1226px;
+    height: 460px;
+    padding: 0px;
+
+}

@@ -273,14 +273,14 @@ li{
   right: 0;
 }
 #xiaomishanggou3{
-  height: 278px;
+  height: 438px;
   width:1226px;
   margin-left:auto;
   margin-right: auto;
   
 }
 #xiaomishanghou2{
-  height: 278px;
+  height: 438px;
   width:1226px;
   margin-left:auto;
   margin-right: auto;
@@ -288,4 +288,58 @@ li{
 
 #zuojiantou33{
   margin-left: -1px;
+}
+#box2-33{
+    position: relative;
+    width:1226px;
+    overflow: hidden;
+    padding-bottom: 40px;
+
+}
+#diaojishi3{
+    height: 340px;
+    overflow: hidden;
+    width:1226px;
+}
+
+#jishi{
+    float: left;
+    width:1226px;
+    margin:0 14px 0 0;
+    padding: 0;
+}
+
+#shijian{
+    height:300px;
+    padding-top:0px;
+    border-top-width:1px;
+    padding-left:0px;
+    float: left;
+    width: 234px;
+    margin-right: 14px;
+}
+#jishutupian{
+    width:234px;
+    height: 339px;
+}
+#shijian1{
+    float: left;
+    height: 340px;
+    list-style-type: none;
+    padding-left:0px;
+    margin-right: 14px;
+
+}
+#shijian2{
+    float: left;
+    height: 340px;
+    list-style-type: none;
+    padding-left:0px;
+    margin-right: 0;
+}
+
+#heishao-33{
+    margin:2px 0 42px;
+    overflow: hidden;
+    height: 120px;
 }

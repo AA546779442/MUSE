@@ -273,7 +273,7 @@ li{
   right: 0;
 }
 #xiaomishanggou3{
-  height: 438px;
+  height: 600px;
   width:1226px;
   margin-left:auto;
   margin-right: auto;
@@ -362,4 +362,135 @@ li{
       left: 0;
       width: 1px;
       height: 70px;
+  }
+  #dakuang-CLP{
+      padding-top:22px;
+      background-color:#f5f5f5;
+  }
+  #xiaokuang-CLP{
+      width: 1226px;
+      margin: 0 auto;
+  }
+  #zhineng-33{
+      height: 686px;
+      margin-bottom: 8px;
+
+  }
+  #zhineng-top{
+      position: relative;
+      height: 58px;
+
+  }
+  #zhineng-top-right{
+      position: absolute;
+      top:0px;
+      right: 0px;
+      width: 326px;
+      height: 42px;
+  }
+  #zhineng-top-main{
+      width: 326px;
+      height: 42px;
+      margin:0px;
+      padding: 16px 0 0;
+      list-style-type:none;
+      font-size:16px;
+
+  }
+  #top-main{
+      float: left;
+      padding: 0px;
+      display: inline-block;
+
+      border-bottom: 2px solid #ff6700;
+      margin:0 0 0 30px;
+      width: 32px;
+      height: 26px;
+  }
+  #top-main1{
+    float: left;
+    padding: 0px;
+    display: inline-block;
+
+    border-bottom: 2px solid #ff6700;
+    margin:0 0 0 30px;
+    width:48px;
+    height: 26px;
+  }
+  #zhineng-top-main a{
+      color:#ff6700;
+  }
+  #zhineng-main1{
+      margin-left:-14px;
+
+  }
+
+  #zhineng-main-left{
+      width:234px;
+    float: left;
+    margin-left:14px;
+    min-height: 1px;
+
+  }
+  #zhineng-main-left-main{
+      margin:0 0 -14px -14px;
+      height: 614px;
+      padding: 0px;
+      list-style-type: none;
+
+  }
+  #zhineng-main-left-main-left{
+      height: 300px;
+      padding: 0px;
+      position: relative;
+      float: left;
+      width: 234px;
+      margin-left:14px;
+      margin-bottom: 14px;
+      list-style-type: none;
+  }
+  #pic55{
+      width:234px;
+      height: 300px;
+  }
+  #zhineng-main1{
+      width:1240px;
+      height: 628px;
+  }
+  #zhineng-main-right{
+      width:978px;
+    float: left;
+    margin-left:14px;
+    min-height: 1px;
+
+  }
+  #zhineng-main-right-tu{
+      margin: 0 0 -14px -14px;
+      width:992px;
+      height:  614px;
+      padding: 0px;
+      list-style-type: none;
+  }
+  #zhineng-main-right-main-tupian{
+      height: 280px;
+      padding: 0px;
+      position: relative;
+      float:left;
+      width:234px;
+      margin-left:14px;
+      margin-bottom: 14px;
+      padding-bottom: 20px;
+
+  }
+  #pic66{
+      width:234px;
+      height: 300px;
+  }
+  #zhineng-bottom{
+      margin:28px 0 22px;
+      height: 120px;
+      overflow: hidden;
+  }
+  #pic77{
+      
   }

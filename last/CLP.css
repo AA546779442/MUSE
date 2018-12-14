@@ -251,7 +251,7 @@ li{
   height: 176px;
 }
 
-#box{
+#box33{
   position: relative;
   height:58px;
   width:1226px;
@@ -299,14 +299,69 @@ li{
 #diaojishi3{
     height: 340px;
     overflow: hidden;
-    width:1226px;
+    width:1240px;
 }
 
 #jishi{
-    float: left;
-    width:1226px;
-    margin:0 14px 0 0;
+  margin-right: 0px;
+  margin-top:0px;
+    border-top-color:#e53935;
+    background: #f1eded;
     padding: 0;
+    height: 300px;
+    padding-top: 39px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    transition: all .6s;
+    float: left;
+    width: 234px;
+}
+#daojishi{
+  padding-left:80px;
+  font-size:21px;
+  color:#ef3a3b;
+  padding-top:15px;
+
+}
+
+#shandian-2002{
+  padding-left:100px;
+  margin:25px auto;
+  border:0;
+
+}
+#jieshu-0322{
+  padding-left:70px;
+  color:rgba(0,0,0,0.54);
+  font-size:15px;
+
+}
+#shijianjishi{
+  height:46px;
+  width:168px;
+  margin:28px auto 0;
+
+}
+
+#box{
+  
+  width:46px;
+  height: 46px;
+  background:#605751;
+  color:#fff;
+  font-size:24px;
+  line-height: 46px;
+  float:left;
+
+}
+
+#dosh{
+  width:15px;
+  float:left;
+  height:46px;
+  line-height: 46px;
+  color:#605751;
+  font-size:28px;
 }
 
 #shijian{
@@ -793,4 +848,172 @@ li{
   }
   #dapei-main-zis a{
     color:#333;
+  }
+  #shangou-right{
+    height:340px;
+    overflow: hidden;
+  }
+  #shangou-right-main{
+    width:3224px;
+    margin-left:0px;
+    margin:0px;
+    padding:0px;
+
+  }
+  #lanyayinxiang{
+    border-top-color:#ffac13;
+    list-style:none;
+    position: relative;
+    background:#fff;
+    height:300px;
+    padding-top:39px;
+    border-top-width:1px;
+    border-top-style:solid;
+    text-align: center;
+    transition:all .6s;
+    float:left;
+    width:204px;
+    margin-left:14px;
+
+  }
+  #shale2002{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background:rgba(0,0,0,0.02)
+  }
+  #lanya-main-a{
+      display: block;
+      width:160px;
+      margin:0 auto 22px;
+  }
+  #yinxiang{
+    width:160px;
+    height:160px;
+    border:0px;
+
+  }
+  #tltle33-main{
+    color:#212121;
+  }
+  #desc{
+    height: 18px;
+    margin: 0 20px 12px;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #b0b0b0;
+  }
+  #price{
+    margin: 0;
+    color: #ff6709;
+  }
+  #price span{
+    color: #ff6709;
+  }
+  #price del{
+    color:#b0b0b0;
+  }
+  #miaosha{
+    background-color: #e53935;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    z-index: 2;
+    width: 64px;
+    height: 20px;
+    margin-left: -32px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  #lanyayinxiang1{
+    border-top-color:#83c44e;
+    list-style:none;
+    position: relative;
+    background:#fff;
+    height:300px;
+    padding-top:39px;
+    border-top-width:1px;
+    border-top-style:solid;
+    text-align: center;
+    transition:all .6s;
+    float:left;
+    width:204px;
+    margin-left:14px;
+  }
+  #title33 a{
+    color:#212121;
+    font-size:14px;
+    font-weight: 400;
+    white-space:nowrap;
+  }
+  #lanyayinxiang2{
+    border-top-color:#2196f3;
+    list-style:none;
+    position: relative;
+    background:#fff;
+    height:300px;
+    padding-top:39px;
+    border-top-width:1px;
+    border-top-style:solid;
+    text-align: center;
+    transition:all .6s;
+    float:left;
+    width:204px;
+    margin-left:14px;
+  }
+
+  #lanyayinxiang3{
+    border-top-color:#e53935;
+    list-style:none;
+    position: relative;
+    background:#fff;
+    height:300px;
+    padding-top:39px;
+    border-top-width:1px;
+    border-top-style:solid;
+    text-align: center;
+    transition:all .6s;
+    float:left;
+    width:204px;
+    margin-left:14px;
+  }
+
+  #title33{
+    margin: 0 20px 3px;
+    font-size: 14px;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  #yewei-foot{
+    width:1226px;
+    margin:0 auto;
+  }
+  #yewei-service{
+    padding:27px 0;
+    border-bottom:1px solid #e0e0e0;
+
+  }
+  #yewei-weixiu{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+
+  }
+  #weixiu{
+    border-left:0;
+    float:left;
+    width:19.8%;
+    height:25px;
+    font-size:16px;
+    line-height:25px;
+    text-align: center;
+    
   }
